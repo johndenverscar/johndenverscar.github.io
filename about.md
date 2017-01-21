@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Clojure enthusiast in a Java world.
 
-### More Information
+I'm not always writing code though.
 
-A place to include any other types of information that you'd like to include about yourself.
+Ask me about bourbon, lacrosse, or cooking!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zavarella.dev@gmail.com](mailto:zavarella.dev@gmail.com)
