@@ -106,7 +106,7 @@ __But what do we do with this thing?__
 
 Fun fact, this is how `+` is defined in Clojure
 This is actually how many mathematical, collection related functions are defined.
-(i.e. `+`, `-`, `*`, `max, `min`, etc...)
+(i.e. `+`, `-`, `*`, `max`, `min`, etc...)
 Not quite this simplistic, but kind of close.
 
 
