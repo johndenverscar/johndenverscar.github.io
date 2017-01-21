@@ -6,7 +6,7 @@
 name: Michael Zavarella
 
 # Short bio or description (displayed in the header)
-description: Software Developer at BioClinica E-Solutions
+description: Software Developer, life enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://media.licdn.com/media/AAEAAQAAAAAAAAgAAAAAJDkwN2E1ZTJjLTYzNTItNGRkNi04OGMwLWFkNTc2Y2IxZmMwYw.jpg
@@ -18,7 +18,7 @@ avatar: https://media.licdn.com/media/AAEAAQAAAAAAAAgAAAAAJDkwN2E1ZTJjLTYzNTItNG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: zavarella.dev@gmail.com
   facebook:
   flickr:
   github: admay
