@@ -5,7 +5,7 @@ title: Queues in Clojure
 ---
 
 Without the idea of a first in, first out (FIFO) queue, maintaining order would be very difficult.
-Or maybe, it's the converse.
+Or maybe, it's the other way around.
 Six to one, half a dozen to the other.
 Either way, FIFO is necessary.
 
