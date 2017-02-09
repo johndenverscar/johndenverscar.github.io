@@ -55,12 +55,11 @@ And just like that, we have a clean way of making queues.
 Now lets see how they work.
 
 ```clojure
-(def numbers-in (queue))
-
 ;; We'll use `conj` to add to the structure
 ;; And then `seq` to look at the queues contents
 
-(seq (conj numbers-in 1 2 3 4 5)
+(def numbers-in (conj queue 1 2 3 4 5)
+(seq numbers-in)
 ;;=> (1 2 3 4 5)
 
 ;; We can use `pop` and `peek` as expected
