@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information Overload: Starting out
+title: Information Overload - Starting out
 date: 2017-03-23 10:50
 categories: [programming clojure noobs]
 ---
