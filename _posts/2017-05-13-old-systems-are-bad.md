@@ -46,3 +46,25 @@ Not allowing your system to update is like a bank finding out that theres a hole
 safe and not fixing it.
 It's not an easy thing for non-tech companies to always be up to date on all of their systems, but security
 isn't something __any__ company can afford to slip on.
+
+There are a ton of reasons for companies to not completely overhaul their infrastructure every year.
+The software that an MRI machine runs absolutely cannot break.
+That could be catostrophic.
+If you are putting off updates to the computers that interact with them, that's perfectly upnderstandable.
+If it aint broke, don't fix it.
+However, you can section those machines off with a separate firewall and neutralize them as a potential security risk.
+This costs money, yes.
+You protect yourself from a ton of security risks though.
+That's worth the money.
+Consider a good system admin team your insurance policy for 
+__literally everything that your company has done, is doing, and will do in the future__.
+
+I'm no network security expert.
+I don't know exactly how WannaCry exploited all of the systems that it did.
+I wouldn't have been of much help stopping it.
+However, according to 
+[SecureList](https://securelist.com/blog/incidents/78351/wannacry-ransomware-used-in-widespread-attacks-all-over-the-world/), 
+a patch for the vulnerability was released March 14th, 2017.
+It's been almost a month.
+If your system was infected, it's because you lacked the dilligence or expertise in maintaining up to date systems.
+Update your computers.
