@@ -5,6 +5,9 @@ title: Proper Web Servers in Clojure
 categories: [clojure]
 ---
 
+Bad web application server setups can waste days of your life over even a short period of time.
+Taking some time to set up a proper work flow will improve your work flow and maybe even earn you a long weekend.
+
 ### Bad Servers and Why they are Bad
 
 ```clojure
