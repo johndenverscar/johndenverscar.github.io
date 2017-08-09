@@ -50,8 +50,8 @@ No, lets be realistic here...
 1. Learn the ideas behind GraphQL
   - Not just what it is. Why it is the way it is.
 2. Scope out the libraries that are out there.
-  - [Alumbra][3]
   - [Lacinia][2]
+  - [Alumbra][3]
 3. Pick one and learn it
   - I'm talking, master it.
 4. Start small
