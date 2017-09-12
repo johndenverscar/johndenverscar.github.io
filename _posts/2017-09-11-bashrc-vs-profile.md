@@ -2,6 +2,7 @@
 layout: post
 title: Bashrc Vs. Bash Profile
 date: 2017-09-11 11:00
+date: 2017-09-11 11:00
 ---
 
 Dotfiles are the greatest thing ever.
