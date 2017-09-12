@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bashrc Vs. Bash Profile: A Guide for Me
+title: Bashrc Vs. Bash Profile
 date: 2017-09-11 11:00
 ---
 
