@@ -65,8 +65,8 @@ Put this in your `bash_profile`,
 ```
 
 All this does is calls your `bashrc` from your `bash_profile`.
-I also suggest setting environment variables and you path in your `bash_profile`.
-After that, anything you need to do ought to go in your `bashrc`.
+After that, everything I do goes in my `bashrc`.
+I do this so that I can set up identical environments whether I am on Linux or Mac without worrying about load times.
 
 For those of you looking for an example of both files, check out some of these.
 
