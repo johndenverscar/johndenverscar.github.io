@@ -10,8 +10,7 @@ It is essential to the Clojure language and the functional programming paradigm.
 This post will be broken into three sections;
 
 1. What?
-2. Why?
-3. How?
+2. How?
 
 First, we'll look at what higher order functions are.
 Next, we'll examine why they might be useful.
@@ -112,10 +111,21 @@ Let's see if we can make a function to make our greeting functions for us.
 
 With this `make-greeter` function, we can create all of the old ones while insuring consistency.
 
-## Why?
-
-
 ## How?
+
+Here we'll go over a few of the ways that I use higher order functions.
+We're going to use some core functions like `map` and `filter`.
+Through that we'll see some anonymous functions and lambdas.
+After that, we'll look at some more specific use cases like dependency injection, testing, and [Ring][1] middleware.
+
+### 1. Map, Filter, and Reduce
+
+### 2. Partial
+
+### 3. Middleware
+
+
+
 
 1. Filter
 2. Map
@@ -132,4 +142,7 @@ With this `make-greeter` function, we can create all of the old ones while insur
 
 
 
-
+[1]: https://github.com/ring-clojure/ring
+[2]: https://admay.github.io/map-vs-reduce/
+[3]: https://clojuredocs.org/clojure.core/reduce
+[4]: https://www.youtube.com/watch?v=sD94szvFqGw
