@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Value of Retrospection
+title: The Value of Introspection
 date: 2017-11-15 12:00
 ---
 
 What is introspection?
 
-_Retrospection_, the art of looking back.
+_Introspection_, the art of looking back.
 
 
 
@@ -14,7 +14,7 @@ Why is it valuable?
 
 ### Value
 
-Retrospection is a difficult skill you aquire and master.
+Introspection is a difficult skill you aquire and master.
 It's not an easy task to criticize yourself.
 Nor is it a quick task.
 For your time and effort, you will be rewarded with proper wisdom.
