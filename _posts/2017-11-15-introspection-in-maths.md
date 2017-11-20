@@ -1,22 +1,15 @@
 ---
 layout: post
-title: The Value of Introspection
+title: The Value of Looking Back
 date: 2017-11-15 12:00
 ---
 
-What is introspection?
-
-_Introspection_, the art of looking back.
-
-
-
-Why is it valuable?
+Examination of a proper solution to any problem in any domain is critical to advancment.
 
 ### Value
 
-Introspection is a difficult skill you aquire and master.
-It's not an easy task to criticize yourself.
-Nor is it a quick task.
+Examining success is a difficult skill to acquire and master.
+It's not an easy task to criticize yourself when you fail, let alone when you succeed.
 For your time and effort, you will be rewarded with proper wisdom.
 
 1. Finding a better solution
