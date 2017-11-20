@@ -6,8 +6,6 @@ date: 2017-11-15 12:00
 
 Examination of a proper solution to any problem in any domain is critical to advancment.
 
-### Value
-
 Examining success is a difficult skill to acquire and master.
 It's not an easy task to criticize yourself when you fail, let alone when you succeed.
 For your time and effort, you will be rewarded with proper wisdom.
