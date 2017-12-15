@@ -169,13 +169,23 @@ Maybe not bullet proof, the args could use validation too, but it's pretty damn 
 
 Let's do a quick step-by-step resolver comparison.
 
-| | Step 1 | Step 2 | Step 3 | Step 4 |
-| --- | --- | --- | --- | --- |
-| resolves | mostly | yes | yes | yes |
-| reports errors  | none | some | some | yes |
-| check empty?    | no | yes | yes | yes |
-| validate otuput | no | no | no | yes |
-| validate input  | no | no | no | no |
+Step 1:
+- Resolves happy path
+- Throws cryptic errors to front end
+- No validation
+
+Step 2/3:
+- Resolves happy path
+- Throws fewer errors
+- Checks for `empty?`
+- Does not validate output
+
+Step 4:
+- Resolves happy path
+- No cryptic errors (yet)
+- Checks for `empty?`
+- Validates output
+- Built for scalability in adding and validating data
 
 In step 1, we had a resolver that could only resolve if the input and DB data are both perfect.
 That's pretty fragile.
