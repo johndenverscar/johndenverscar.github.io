@@ -223,6 +223,6 @@ For now, we'll be fine.
 __TOO DAMN BAD!!!__
 
 Nah, I'm just kidding...
-@amday on the Clojure slack.
+@admay on the Clojure slack.
 I'm online a lot and float around #graphql and #beginners.
 Hit me up!
