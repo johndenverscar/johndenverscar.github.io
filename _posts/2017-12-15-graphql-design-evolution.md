@@ -176,7 +176,6 @@ Let's do a quick step-by-step resolver comparison.
 | check empty?    |   no   |   yes  |   yes  |   yes  |
 | validate otuput |   no   |   no   |   no   |   yes  |
 | validate input  |   no   |   no   |   no   |   no   |
-|-----------------|--------|--------|--------|--------|
 
 In step 1, we had a resolver that could only resolve if the input and DB data are both perfect.
 That's pretty fragile.
