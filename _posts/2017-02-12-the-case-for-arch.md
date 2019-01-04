@@ -4,15 +4,16 @@ date: 2017-02-12 22:09
 title: The Case for Arch
 ---
 
-If you ask me Windows (any version) is bad.
-I don't like the focus of the company any more and I resent their 'operation system'.
+If you ask me, Windows (any version) is bad.
+I don't like the focus of the company any more and I resent their 'operating system'.
 Mac isn't as bad because it at least has a decent shell, but that's really it.
 Apple is still watching your every move.
+Linux however, it's the bees knees man.
 
 Linux is great.
 It's open source so I don't have to fork over any money for it.
 I also don't feel like the governments of the world are watching me, which is nice.
-And I can make it look however I want. 
+And I can make it look however I want.
 Thank God for DWM!
 
 Most people see Arch users as ego-maniacs.
