@@ -4,16 +4,14 @@ title: Evolving GraphQL Resolvers
 date: 2017-12-15 12:00
 ---
 
-GraphQL and Lacinia.
-Voodoo, magic, or engineering briliance.
-You decide!
-No matter what though, you'll probably wind up using it one day.
+Lacinia, Clojure, and GraphQL.
+It's easy to do when you know what to do.
 
 ## Warning
 
 I'm not teaching you anything about GraphQL.
 I'm not teaching you much about Lacinia.
-Here's some stuff if you want to learn though! :)
+Here's some stuff if you want to learn though!
 
 1. [GraphQL Documentation](http://graphql.org/learn/)
 2. [GraphQL Technical Specs](http://facebook.github.io/graphql/October2016/)
