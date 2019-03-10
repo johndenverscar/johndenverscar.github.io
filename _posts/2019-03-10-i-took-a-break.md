@@ -49,4 +49,3 @@ What's more important to me now, is this.
 Why write?
 
 Thanks for reading!
-- Mike
