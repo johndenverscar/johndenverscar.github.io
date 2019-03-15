@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Well Architected and Me
-date: 2019-03-15 12:00:00
+date: 2019-03-14 12:00:00
 ---
 
 The [Well Architected Framework][0] is an guide to good infrastructure practices within AWS.
