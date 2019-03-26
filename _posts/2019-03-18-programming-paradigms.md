@@ -3,8 +3,9 @@ layout: post
 title: Usefulness of Programming Paradigms
 ---
 
-There is no sense in picking a programming paradigm.
-Likewise, there's no sense in trying to defend one or the other.
+OOP and FP are both good foundations for writing code.
+They are not mutually exclusive though.
+Think less and pick the right tool for the job.
 
 In this article I'll be looking at Java and Clojure closely.
 This is not a language specific article though.
