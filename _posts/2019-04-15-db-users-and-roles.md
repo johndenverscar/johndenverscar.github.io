@@ -146,7 +146,7 @@ That was a bit involved but what we did can be summed up with;
     - `grant all privileges on <db name>.* ...`
 
 I know databases aren't pretty and flashy, but at least learn the basics of admin.
-If you do know them, you wont spend hours or days trying to figure out something as simple as what `ER_NO_SUCH_USER` means...
+It'll save you lots of time.
 
 -----
 [0]: https://dev.mysql.com/downloads/installer/
