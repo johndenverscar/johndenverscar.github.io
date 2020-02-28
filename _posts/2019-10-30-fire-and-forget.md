@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `nohup` vs &
+title: nohup vs &
 date: 2019-10-30 10:00
 ---
 
