@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Generators: My Notes
+title: Python Generators - My Notes
 date: 2020-02-27 10:00
 ---
 
