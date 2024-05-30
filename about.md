@@ -9,11 +9,12 @@ If you ask me one of those questions I can't answer and I give you a bad answer,
 
 Ask me about:
 
-- AWS/Cloud Services
+- AWS
 - Clojure
-- Software Reliability
-- CICD/Dev Ops
+- SRE
+- CICD
+- Dev Ops
 
 ### Contact me
 
-[zavarella.dev@gmail.com](mailto:zavarella.dev@gmail.com)
+[mzavarella30@gmail.com](mailto:mzavarella30@gmail.com)
