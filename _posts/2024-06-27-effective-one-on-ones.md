@@ -15,9 +15,10 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Respect time: Your IC's set the time, not you. Don't break up a focus time block.
 - Listen, focus, follow up: Listen actively and thoughtfully, focus on the discussion for the individual, and follow up on action items and commitments.
 
-```
-#### 1-on-1 Meeting Notes
 
+### My 1-on-1 Meeting Notes Template
+
+```markdown
 **Date:** 
 **Employee Name:** 
 
