@@ -18,7 +18,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 
 ### My 1-on-1 Meeting Notes Template
 
-```markdown
+```
 **Date:** 
 **Employee Name:** 
 
@@ -27,6 +27,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Weekly highlights and challenges (work and personal).
 **Notes:**
 - 
+```
 
 **2. Personal Wellness**
 - Work-life balance.
