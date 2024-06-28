@@ -24,6 +24,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 **1. Check-In**
 - How are you feeling today?
 - Weekly highlights and challenges (work and personal).
+
 **Notes:**
 
 **2. Personal Wellness**
@@ -31,6 +32,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Stress management and breaks.
 - Support in role and personal life.
 - Non-work-related goals or activities.
+
 **Notes:**
 
 **3. Career and Development**
@@ -38,6 +40,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Desired skills or areas of development.
 - Obstacles to growth or satisfaction.
 - Training or resources needed.
+
 **Notes:**
 
 **4. Work Topics**
@@ -45,12 +48,14 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Assistance needed.
 - Feedback on recent tasks or projects.
 - Priorities for the coming week.
+
 **Notes:**
 
 **5. Open Floor**
 - Additional topics or concerns.
 - Feedback for the manager.
 - Suggestions for team or process improvements.
+
 **Notes:**
 
 **Action Items & Follow Ups:**
