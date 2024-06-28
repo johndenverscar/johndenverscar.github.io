@@ -18,16 +18,15 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 ```
 #### 1-on-1 Meeting Notes
 
-**Date:** [Insert Date]  
-**Employee Name:** [Insert Name]
+**Date:** 
+**Employee Name:** 
 
----
 **1. Check-In**
 - How are you feeling today?
 - Weekly highlights and challenges (work and personal).
 **Notes:**
 - 
----
+
 **2. Personal Wellness**
 - Work-life balance.
 - Stress management and breaks.
@@ -35,7 +34,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Non-work-related goals or activities.
 **Notes:**
 - 
----
+
 **3. Career and Development**
 - Feelings about current role and responsibilities.
 - Desired skills or areas of development.
@@ -43,7 +42,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Training or resources needed.
 **Notes:**
 - 
----
+
 **4. Work Topics**
 - Current project blockers or issues.
 - Assistance needed.
@@ -51,16 +50,14 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Priorities for the coming week.
 **Notes:**
 - 
----
+
 **5. Open Floor**
 - Additional topics or concerns.
 - Feedback for the manager.
 - Suggestions for team or process improvements.
 **Notes:**
 - 
----
+
 **Action Items & Follow Ups:**
 - 
----
-
 ```
