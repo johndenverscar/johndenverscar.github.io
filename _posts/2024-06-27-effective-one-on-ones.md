@@ -18,7 +18,6 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 
 ### My 1-on-1 Meeting Notes Template
 
-```
 **Date:** 
 **Employee Name:** 
 
@@ -26,8 +25,6 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - How are you feeling today?
 - Weekly highlights and challenges (work and personal).
 **Notes:**
-- 
-```
 
 **2. Personal Wellness**
 - Work-life balance.
@@ -35,7 +32,6 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Support in role and personal life.
 - Non-work-related goals or activities.
 **Notes:**
-- 
 
 **3. Career and Development**
 - Feelings about current role and responsibilities.
@@ -43,7 +39,6 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Obstacles to growth or satisfaction.
 - Training or resources needed.
 **Notes:**
-- 
 
 **4. Work Topics**
 - Current project blockers or issues.
@@ -51,15 +46,11 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Feedback on recent tasks or projects.
 - Priorities for the coming week.
 **Notes:**
-- 
 
 **5. Open Floor**
 - Additional topics or concerns.
 - Feedback for the manager.
 - Suggestions for team or process improvements.
 **Notes:**
-- 
 
 **Action Items & Follow Ups:**
-- 
-```
