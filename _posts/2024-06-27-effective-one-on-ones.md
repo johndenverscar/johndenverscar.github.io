@@ -6,7 +6,7 @@ date: 2024-06-27 06:00
 
 They should always be for the benefit of you team memebers. Fair warning, these are notes, not full sentences.
 
-### Why 1 on 1's Matter
+### The Short of it
 
 - Build a relationship: This is space to get to know someone beyond the daily grind and deadlines. Learn motivations, aspirations, and challenges.
 - Be open, be safe: Be the person that your team can lean on to voice concerns and frustrations. Address the small problems early and often.
