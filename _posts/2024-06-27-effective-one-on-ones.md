@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective 1 on 1's and a my Personal Template
+title: Effective 1 on 1's and my Personal Template
 date: 2024-06-27 06:00
 ---
 
