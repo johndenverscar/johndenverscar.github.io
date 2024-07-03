@@ -14,6 +14,7 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 - Recognition and Feedback: If it isn't positive, it better be constructive. No IC should leave a 1 on 1 feeling like things are slipping away.
 - Respect time: Your IC's set the time, not you. Don't break up a focus time block.
 - Listen, focus, follow up: Listen actively and thoughtfully, focus on the discussion for the individual, and follow up on action items and commitments.
+- Encourage Upward Feedback: It's easy to forget that managers can improve too and the best source of how is from the people.
 
 
 ### My 1-on-1 Meeting Notes Template
@@ -21,21 +22,15 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 **Date:** 
 **Employee Name:** 
 
-**1. Check-In**
+**1. Check-In & Personal Wellness**
 - How are you feeling today?
 - Weekly highlights and challenges (work and personal).
-
-**Notes:**
-
-**2. Personal Wellness**
-- Work-life balance.
 - Stress management and breaks.
 - Support in role and personal life.
-- Non-work-related goals or activities.
 
 **Notes:**
 
-**3. Career and Development**
+**2. Career and Development**
 - Feelings about current role and responsibilities.
 - Desired skills or areas of development.
 - Obstacles to growth or satisfaction.
@@ -43,15 +38,13 @@ They should always be for the benefit of you team memebers. Fair warning, these 
 
 **Notes:**
 
-**4. Work Topics**
-- Current project blockers or issues.
-- Assistance needed.
-- Feedback on recent tasks or projects.
-- Priorities for the coming week.
+**3. Upward Feedback**
+- What can I do to make your experience improve?
+- What areas can I work on as your manager?
 
 **Notes:**
 
-**5. Open Floor**
+**4. Open Floor**
 - Additional topics or concerns.
 - Feedback for the manager.
 - Suggestions for team or process improvements.
