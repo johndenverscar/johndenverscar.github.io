@@ -215,12 +215,3 @@ Then, as a final move, expanding specs.
 Using plain predicates is a good start, but for things like email addresses, you want more detail.
 I'll be adding that in last though.
 For now, we'll be fine.
-
-#### Gripes?
-
-__TOO DAMN BAD!!!__
-
-Nah, I'm just kidding...
-@admay on the Clojure slack.
-I'm online a lot and float around #graphql and #beginners.
-Hit me up!

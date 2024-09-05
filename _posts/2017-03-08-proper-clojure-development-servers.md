@@ -91,4 +91,4 @@ Take that extra time to go on vacation or work on a side project.
 
 ___
 
-[1]: https://github.com/admay/rest-test
+[1]: https://github.com/johndenverscar/rest-test
